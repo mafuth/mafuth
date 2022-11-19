@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafuth" alt="mafuth" /></a> </p>
 
-- 🔭 I’m currently working on [PHP CLI](https://github.com/mafuth/php-CLI)
-
-- 🤝 I’m looking for help with [Torrent Stream Server](https://github.com/mafuth/MVFLIX-Torrent-Server)
+- 🤝 I’m looking for help with [Flixx](https://github.com/mafuth/Flixx) an opensource fully automated streaming platform
 
 - 📫 How to reach me **mafaaz708@gmail.com**
 
