@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafuth&label=Profile%20views&color=0e75b6&style=flat-square" alt="mafuth" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mafuth" alt="mafuth" /></a> </p>-->
-
-- 🤝 I’m looking for help with [Flixx](https://github.com/mafuth/Flixx) an opensource fully automated streaming platform
-
 - 📫 How to reach me **mafaaz708@gmail.com**
 
 <!--<h3 align="left">Languages and Tools:</h3>
